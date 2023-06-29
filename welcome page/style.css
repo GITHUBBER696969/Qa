@@ -1,0 +1,104 @@
+/*#9E00FF
+#FF7A00*/
+
+
+
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.container{
+font-size: 40px;
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+justify-items: center;
+align-content: center;
+justify-content: center;
+margin: 10px  ;  
+
+}
+
+
+.Anime{
+  
+border-radius: 7px;
+font-size:20px ;
+border: 0px;
+background-color: white;
+margin: 100px;
+width: 156px;
+height: 100px;
+
+
+}
+
+.cars{
+
+    border-radius: 7px;
+    font-size:20px;
+    border: 0px;
+    background-color: white;
+    margin: 100px;
+    width: 156px;
+    height: 100px;
+    
+
+    
+}
+
+.csgo{
+ 
+    border-radius: 7px;
+    font-size:20px;
+    border: 0px;
+    background-color: white;
+    margin: 100px;
+    width: 156px;
+    height: 100px;
+    
+
+
+
+
+
+}
+
+.Anime:hover{
+
+
+    transition: 400ms;
+    color:white;
+    background-color:#9E00FF ;
+
+
+
+
+}
+
+.csgo:hover{
+
+    transition: 400ms;
+    color:black;
+    background-color:#FF7A00;
+
+
+
+
+}
+
+
+
+
+.cars:hover{
+
+    transition: 400ms;
+    color:white;
+    background-color:#009dff;
+
+
+
+}
+
+

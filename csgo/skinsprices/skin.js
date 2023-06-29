@@ -1,0 +1,8 @@
+//darkmode
+
+
+
+
+function dark(){
+    
+}

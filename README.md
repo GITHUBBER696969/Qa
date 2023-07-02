@@ -1,2 +1,3 @@
 # Qa
-   i wnna see does this workl ?
+
+<please contact me if there is anything wrong with the prices `Discord`>
